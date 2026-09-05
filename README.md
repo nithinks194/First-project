@@ -1,3 +1,3 @@
 # First-project
 **Finding  central tendency,Dispersion
-#Mean,Median,Mode,Variance,Standard Deviation
+Mean,Median,Mode,Variance,Standard Deviation
